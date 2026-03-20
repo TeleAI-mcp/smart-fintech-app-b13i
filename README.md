@@ -1,2 +1,3 @@
-# smart-fintech-app-b13i
-Automated issue comment bot repository
+# Smart Fintech App B13I
+
+Automated issue comment bot repository.
